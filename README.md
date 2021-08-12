@@ -3,7 +3,7 @@
 
 ![NodeCI](https://github.com/kalwar/null_or_empty/workflows/Node%20CI/badge.svg)
 
-![CI test]https://github.com/aortizpalma/null_or_empty/workflows/test_workflow.yml/badge.svg
+![CItest]https://github.com/aortizpalma/null_or_empty/workflows/test_workflow.yml/badge.svg
 
 A Node.js package that checks if a given string is null or empty.
 
